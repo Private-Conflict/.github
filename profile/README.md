@@ -12,7 +12,7 @@ With Arma Reforger we focus on PvPvE content and try to expand the conflict game
 
 You can help us by :
 
-* Spreading our socials to your friends and invite people to join our community
+* Spreading our socials around, to your friends and invite people to join our community.
 * Join our ranks, if you know how to :
   * create maps
   * create scenarios with the "Scenario Framework"

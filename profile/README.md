@@ -24,8 +24,10 @@ You can help us by :
 
 Hell, even if you don't know any of the above but are willing to learn, you're also welcome abord 😁
 
-Get in touch with us on our [Discord server](https://discord.gg/uPQQp7A9xs) and we'll get back to you ASAP.\
-Don't want to get your hands "dirty" but still want to help ? Support us on [Patreon](https://www.patreon.com/PrivateConflict) to help us pay for servers, software licences, courses to learn new skills and devote more time to modding !
+Get in touch with us on our [Discord server](https://discord.gg/uPQQp7A9xs) and we'll get back to you ASAP.
+
+Don't want to get your hands "dirty" but still want to help ?\
+Support us on [Patreon](https://www.patreon.com/PrivateConflict) to help us pay for servers, software licences, courses to learn new skills and devote more time to modding !
 
 <!--
 **Here are some ideas to get you started:**

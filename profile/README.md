@@ -15,7 +15,7 @@ You can help us by :
 * Spreading our socials to your friends and invite people to join our community
 * Join our ranks, if you know how to :
   * create maps
-  * create scenarios
+  * create scenarios with the "Scenario Framework"
   * write scripts
   * model gear and weapons
   * integrate assets in the game engine

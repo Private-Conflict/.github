@@ -1,4 +1,4 @@
-## Welcome to "Private Conflict" 🫡
+## Welcome to the "Private Military Conflict" Github project page 🫡
 
 ### Who are we ?
 
